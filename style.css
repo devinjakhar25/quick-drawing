@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+
+}
+#span1
+{
+    font-size: 40px;
+    float:left;
+    color: antiquewhite;
+}
+#span2
+{
+    font-size: 40px;
+    float: right;
+    color: bisque;
+}
